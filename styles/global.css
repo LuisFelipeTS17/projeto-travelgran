@@ -30,10 +30,11 @@ body {
 a {
   text-decoration: none; 
   color: inherit;
+  
 }
 
 a:hover {
-  color: var(--background-color);
+  color: var(--brand-color);
   text-decoration: underline;
 }
 
